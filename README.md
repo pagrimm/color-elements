@@ -1,6 +1,6 @@
-# Portfolio Project
+# Color Elements
 
-#### Color Elements practice for Epicodus, 06.02.2020
+#### jQuery practice for Epicodus, 06.02.2020
 
 #### By **Peter Grimm and Deryck Jackson**
 
