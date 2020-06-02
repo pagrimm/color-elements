@@ -1,17 +1,17 @@
 # Portfolio Project
 
-#### , 05.29.2020
+#### Color Elements practice for Epicodus, 06.02.2020
 
-#### By **Peter Grimm**
+#### By **Peter Grimm and Deryck Jackson**
 
 ## Description
 
-Insert description here
+An page created to practice adding and removing CSS classes using jQuery.
 
 ## Setup/Installation Requirements
 
 * Clone this repository 
-* Browse to the _ _ folder
+* Browse to the _color-elements_ folder
 * Open _index.html_ in a browser of your choice
 
 ## Technologies Used
@@ -23,5 +23,5 @@ jQuery
 
 ## Legal
 
-Copyright (c) 2020 **_Peter Grimm_**  
+Copyright (c) 2020 **_Peter Grimm_** and **_Deryck Jackson_** 
 This software is licensed under the MIT license.
